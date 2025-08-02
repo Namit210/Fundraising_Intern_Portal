@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": "Namit Sharma",
+    "referralCode": "namit2025",
+    "totalDonations": 12345,
+    "rewards": [
+      { "title": "Bronze Badge", "unlocked": true },
+      { "title": "Silver Badge", "unlocked": false },
+      { "title": "Gold Badge", "unlocked": false }
+    ]
+  },
+  "leaderboard": [
+    { "name": "Namit Sharma", "referralCode": "namit2025", "totalDonations": 12345 },
+    { "name": "Aisha Khan", "referralCode": "aisha2025", "totalDonations": 11000 },
+    { "name": "Rohan Patel", "referralCode": "rohan2025", "totalDonations": 9500 },
+    { "name": "Priya Singh", "referralCode": "priya2025", "totalDonations": 8700 },
+    { "name": "Sara Lee", "referralCode": "sara2025", "totalDonations": 8000 }
+  ]
+}
